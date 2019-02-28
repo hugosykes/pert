@@ -1,6 +1,5 @@
 ## Pert calculator
 
-### Instructions
+###  Instructions
 
  - Run `./pert_calculator.sh` and follow the instructions.
- 
